@@ -2,3 +2,4 @@
 /Complaints/target/
 /ComplaintsClient/target/
 **/.vs/
+**/bin/

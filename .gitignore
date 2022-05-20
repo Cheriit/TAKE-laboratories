@@ -1,3 +1,4 @@
 **/build/
 /Complaints/target/
 /ComplaintsClient/target/
+**/.vs/
